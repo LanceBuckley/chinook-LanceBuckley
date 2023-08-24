@@ -1,2 +1,2 @@
 SELECT DISTINCT BillingCountry
-    FROM Invoice
+    FROM Invoice;

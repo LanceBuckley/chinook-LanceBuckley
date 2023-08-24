@@ -1,3 +1,3 @@
 SELECT *
     FROM Customer
-    WHERE Country IS 'Brazil'
+    WHERE Country IS 'Brazil';

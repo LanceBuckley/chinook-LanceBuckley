@@ -1,3 +1,3 @@
 SELECT *
     FROM Employee
-    WHERE Title = 'Sales Support Agent'
+    WHERE Title = 'Sales Support Agent';
